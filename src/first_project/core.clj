@@ -12,3 +12,18 @@
 
 ; First Comment
 (plusTen 1)
+
+(type 12.0)
+
+(type false)
+
+;;vars
+(def temp
+  "string")
+
+(def symbol_value
+  'something)
+
+symbol_value
+
+temp
